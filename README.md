@@ -3,6 +3,7 @@
 /Users/guanalong/Desktop/test2.gif
 ![Alt text](https://github.com/guanalongaaa/Minimize-the-view/raw/master/test2.gif)
 
+# 仿视频会议最小化视图，简单的demo
 
 
 #- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
